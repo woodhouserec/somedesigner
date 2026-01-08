@@ -1,0 +1,6 @@
+
+{
+  "name": "Igor Bogdanov Portfolio",
+  "description": "High-end UI/UX Designer portfolio. Note: Ensure GitHub Webhooks are active in Repo Settings -> Webhooks to enable automatic Vercel deployments.",
+  "requestFramePermissions": []
+}
