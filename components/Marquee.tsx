@@ -11,7 +11,7 @@ export const Marquee: React.FC<MarqueeProps> = ({ text }) => {
       {Array.from({ length: 4 }).map((_, i) => (
         <span 
           key={i} 
-          className="text-[12vw] leading-[1.2] font-normal text-white mix-blend-overlay px-10 whitespace-nowrap tracking-tighter"
+          className="text-[12vw] leading-[1.2] font-normal text-white mix-blend-difference opacity-100 px-10 whitespace-nowrap tracking-tighter"
         >
           {text}
         </span>

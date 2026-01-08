@@ -6,7 +6,7 @@ export const Navbar: React.FC = () => {
     <nav className="flex justify-between items-center px-10 py-8 text-white mix-blend-difference">
       <div className="flex items-center gap-3">
         <div className="text-sm font-medium tracking-tight">
-          © Code by Somedesigner
+          © Design & Code — Somedesigner
         </div>
         <div className="flex items-center gap-1.5 ml-4 px-2 py-0.5 border border-white/20 rounded-full">
           <span className="relative flex h-1.5 w-1.5">
